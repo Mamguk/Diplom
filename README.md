@@ -1,16 +1,6 @@
 <h1 align="center">Выпускная квалификационная работа по теме "Автосервис"</h1>
 
-<div align="center">
-  <a href="">
-    <img width="575" alt="Снимок экрана 2023-05-30 в 14 45 48" src="https://github.com/hikiasi/autoservice/blob/93d52d39dc3fa9b3f914fd8ca7f53411285c2bd5/autoservice2_(123)%20(2).png">
-  </a>
-  <a href="">
-    <img width="575" alt="Снимок экрана 2023-05-30 в 14 45 48" src="https://github.com/hikiasi/autoservice/blob/93d52d39dc3fa9b3f914fd8ca7f53411285c2bd5/photo_2023-08-15_01-45-45.jpg">
-  </a>
-  <a href="">
-    <img width="575" alt="Снимок экрана 2023-05-30 в 14 45 48" src="https://github.com/hikiasi/autoservice/blob/93d52d39dc3fa9b3f914fd8ca7f53411285c2bd5/photo_2023-08-15_01-47-02.jpg">
-  </a>
-</div>
+
 
 <a name="summary">
   <details>
@@ -89,3 +79,4 @@
 - Сделать более точным отчет "Заказ-наряд", где будут подсчитываться норм-часы для работника, детали которые были закуплены для выполнения той, или иной услуги. Для этого нужно изменить структуру БД с добавлением более детальной информации
 
 <div align="right">(<a href="#summary">к оглавлению</a>)</div>
+
